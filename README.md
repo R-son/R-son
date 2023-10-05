@@ -13,7 +13,7 @@
 </p>
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=R-son&theme=tokyonight">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R-son&layout=compact&theme=tokyonight">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R-son&layout=compact&theme=tokyonight" height="300">
 </p>
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R-son&layout=compact&theme=tokyonight">
