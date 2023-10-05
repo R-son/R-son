@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=R-son&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+ <img src="https://github-readme-streak-stats.herokuapp.com?user=R-son&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D">
 </p>
 <!--
 **R-son/R-son** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
