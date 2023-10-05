@@ -14,8 +14,10 @@
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=R-son&theme=tokyonight">
 </p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R-son&layout=donut&theme=tokyonight)](https://github.com/R-son)
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R-son&layout=donut&theme=tokyonight">
+</p>
+https://github-readme-stats.vercel.app/api/top-langs/?username=R-son&layout=donut&theme=tokyonight)](https://github.com/R-son)
 <!--
 **R-son/R-son** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
